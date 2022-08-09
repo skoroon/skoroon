@@ -1,8 +1,9 @@
-### Hi there 👋
+### olá 👋
 
 
-**skoroon/skoroon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
-  procuro ajuda com andar de bicicleta 
-- 💬 Ask me about  minha vida 
-- 📫 How to reach me moro em irati 
-- ⚡ Fun fact jogo games online  
+**meu nome é murillo lenart
+ andando de bicicleta
+- 💬 estou aprendendo pensamento computacional
+- 📫  moro em irati 
+- ⚡  estou aprendendo progamação
+estudo no colegio duque de caxias
